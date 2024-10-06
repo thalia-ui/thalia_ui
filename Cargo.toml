@@ -1,9 +1,12 @@
 [package]
 name = "thalia_ui"
+description = "thalia_ui ui-framework"
 version = "0.1.0"
 edition = "2021"
 authors = ["The thalia_ui contributors"]
 readme = "README.md"
+keywords = ["framework", "graphics", "ui"]
+license = "MIT OR Apache-2.0"
 repository = "https://github.com/thalia-ui/thalia_ui"
 
 [dependencies]
